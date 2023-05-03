@@ -1,0 +1,8 @@
+Flask==2.2.2
+Flask_Cors==3.0.10
+spacy==3.5.2
+
+https://huggingface.co/Jacobo/grc_proiel_trf/resolve/main/grc_proiel_trf-any-py3-none-any.whl
+https://huggingface.co/Jacobo/grc_proiel_lg/resolve/main/grc_proiel_lg-any-py3-none-any.whl
+https://huggingface.co/Jacobo/grc_proiel_sm/resolve/main/grc_proiel_sm-any-py3-none-any.whl
+https://huggingface.co/Jacobo/grc_perseus_trf/resolve/main/grc_perseus_trf-any-py3-none-any.whl
